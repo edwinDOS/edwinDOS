@@ -6,7 +6,9 @@ Assistant Professor
 
 Other links:
 
-- <i class="fa-brands fa-google-scholar"></i> [Google Scholar profile]([https://www.genome.gov/](https://scholar.google.com/citations?user=A_hsAccAAAAJ&hl=es))
+- <i class="fa-brands fa-google-scholar"></i> [Google Scholar profile](https://scholar.google.com/citations?user=A_hsAccAAAAJ&hl=es/)
+
+- <i class="fa-brands fa-orcid"></i> [OrCID profile](https://orcid.org/0000-0003-0791-860X)
 
 <!--
 - 🌱 I’m currently learning ...
