@@ -19,3 +19,7 @@ Other links:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --->
+
+[![Edwin's GitHub stats](https://github-readme-stats-seven-mocha-78.vercel.app/api?username=edwinDOS&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-seven-mocha-78.vercel.app/api/top-langs/?username=edwinDOS&layout=compact&count_private=true&hide=javascript,html,Jupyter%20Notebook,CSS,c%23,Makefile,Tex,GLSL,qmake,M4,scilab&show_icons=true&include_all_commits=true&is_fork=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
