@@ -30,7 +30,7 @@ Research profiles:
 
 <div align="center">
     <table >
-     <tr>
+     <tr >
         <td><b>
           <img width=480 src='https://github-readme-stats-seven-mocha-78.vercel.app/api?username=edwinDOS&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />  
         </b></td>
